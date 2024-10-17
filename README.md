@@ -1,0 +1,5 @@
+## Installation
+
+```
+flutter install
+```
